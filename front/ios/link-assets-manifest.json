@@ -1,0 +1,49 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Icon_",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "src/assets/fonts/proxima-nova-font/OpenType TTF Std/ProximaNovaAlt-Bold.ttf",
+      "sha1": "7d27e6eb2b4043d5c9faa348e86b64cbc294c199"
+    },
+    {
+      "path": "src/assets/fonts/proxima-nova-font/OpenType TTF Std/ProximaNovaAlt-Regular.ttf",
+      "sha1": "443e273eafbe5dd2bb6a275a62d342ef535d6dd2"
+    },
+    {
+      "path": "src/assets/fonts/proxima-nova-font/OpenType TTF Std/ProximaNovaAlt-Semibold.ttf",
+      "sha1": "04662aeb2666e0177f6b34e76095eb848069e832"
+    },
+    {
+      "path": "src/assets/fonts/proxima-nova-font/OpenType TTF Std/ProximaNovaAltCond-Semibold.ttf",
+      "sha1": "9dbb2f038be093345a5991c0c260a91d6673860a"
+    },
+    {
+      "path": "src/assets/fonts/proxima-nova-font/__MACOSX/._OpenType TTF Std",
+      "sha1": "7e70c4cd3e1e46655923fd83925d3147c3929a62"
+    },
+    {
+      "path": "src/assets/fonts/proxima-nova-font/__MACOSX/OpenType TTF Std/._Icon_",
+      "sha1": "383ea93e29e8a3620d8684d13802b4da2c7dd75d"
+    },
+    {
+      "path": "src/assets/fonts/proxima-nova-font/__MACOSX/OpenType TTF Std/._ProximaNovaAlt-Bold.ttf",
+      "sha1": "c1b6fa24f577706f2e572127d051a4f4a3042f40"
+    },
+    {
+      "path": "src/assets/fonts/proxima-nova-font/__MACOSX/OpenType TTF Std/._ProximaNovaAlt-Regular.ttf",
+      "sha1": "ffcd5e1dfc8d5c23fea8ca1b1a088c9bb8ba4325"
+    },
+    {
+      "path": "src/assets/fonts/proxima-nova-font/__MACOSX/OpenType TTF Std/._ProximaNovaAlt-Semibold.ttf",
+      "sha1": "42de85b987a0fc17fda2eb31797970fa84684a61"
+    },
+    {
+      "path": "src/assets/fonts/proxima-nova-font/__MACOSX/OpenType TTF Std/._ProximaNovaAltCond-Semibold.ttf",
+      "sha1": "67a5f5bf2deba72a20abfe161e66a4868f23831e"
+    }
+  ]
+}
